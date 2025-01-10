@@ -1,2 +1,2 @@
-# horas
+# Horas
 Apontamento de horas
